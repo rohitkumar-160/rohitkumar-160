@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Rohit Kumar  
+<p align="center">
+  <img src="banner.svg" alt="Rohit Kumar — Full Stack Developer" />
+</p>
 
-💻 **Full Stack Developer | AI Enthusiast | Problem Solver**  
+
 
 I’m passionate about building **scalable web applications, AI-powered platforms, and backend systems**. Currently interning at **IBM India Software Labs**, I work on enterprise-grade solutions with **Spring Boot and React**.  
 
